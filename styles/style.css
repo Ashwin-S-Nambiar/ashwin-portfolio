@@ -107,9 +107,20 @@ body::-webkit-scrollbar-thumb {
 .about__title:hover,
 .featured__title:hover, 
 .work__title:hover, 
-.contact__title:hover {
+.contact__title:hover,
+.about__subtitle:hover {
   color: #F4D04E;
   transition: all ease-in-out 0.3s;
+}
+
+.hero__name {
+  text-decoration: none;
+  border-bottom: 4px solid rgba(0, 0, 0 ,0);
+  transition: ease-in-out border-bottom 500ms;
+}
+
+.hero__name:hover {
+  border-bottom: 4px solid #ddd;
 }
 
 .hero__title:hover,
