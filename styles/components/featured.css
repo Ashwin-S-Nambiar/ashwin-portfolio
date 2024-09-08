@@ -26,6 +26,7 @@
   max-width: 60ch;
   color: var(--clr-light);
   font-size: var(--size-sm);
+  font-weight: 500;
   margin: 1rem 0;
 }
 

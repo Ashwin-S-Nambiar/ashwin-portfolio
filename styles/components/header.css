@@ -3,7 +3,7 @@
   justify-content: flex-end;
   align-items: center;
   padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-bottom: 2rem;
   position: relative;
   z-index: 9999;
 }
@@ -38,7 +38,7 @@
   .header__link {
     font-size: var(--size-xs);
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 800;
     color: var(--clr-slate600);
     letter-spacing: -0.05em;
     transition: color 0.3s;
@@ -73,6 +73,7 @@
 @media (min-width: 1024px) {
   .header__link {
     font-size: var(--size-sm);
+    font-weight: 800;
   }
 
   .header__sun {

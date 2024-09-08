@@ -15,7 +15,7 @@
 }
 
 .hero__subtitle {
-  color: var(--clr-slate800);
+  color: var(--clr-light);
   font-size: var(--size-base);
   line-height: 0.9;
 }
@@ -31,6 +31,7 @@
 .hero__description {
   max-width: 60ch;
   font-size: var(--size-sm);
+  font-weight: 500;
   color: var(--clr-light);
 }
 

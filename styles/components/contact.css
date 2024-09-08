@@ -16,6 +16,7 @@
 .contact__description {
   font-size: var(--size-sm);
   color: var(--clr-light);
+  font-weight: 500;
   max-width: 60ch;
 }
 
