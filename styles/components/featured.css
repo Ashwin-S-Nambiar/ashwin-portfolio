@@ -70,6 +70,10 @@
   position: relative;
 }
 
+.featured__img-wrapper > img {
+  height: 100%;
+}
+
 .featured__img-wrapper::after {
   content: '';
   background-color: rgba(127, 125, 173, 0.4);
