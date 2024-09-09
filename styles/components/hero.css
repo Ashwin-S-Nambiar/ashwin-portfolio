@@ -20,6 +20,16 @@
   line-height: 0.9;
 }
 
+.hero__name {
+  text-decoration: none;
+  border-bottom: 4px solid rgba(0, 0, 0 ,0);
+  transition: ease-in-out border-bottom 400ms;
+}
+
+.hero__name:hover {
+  border-bottom: 4px solid var(--clr-light);
+}
+
 .hero__title {
   color: var(--clr-slate400);
   text-transform: uppercase;

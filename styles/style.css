@@ -93,10 +93,6 @@ body::-webkit-scrollbar-thumb {
   outline: 1px solid var(--clr-rose);
 }
 
-.about__img {
-  border-radius: 12px;
-}
-
 .link-btns {
   display: flex;
   gap: 0.5em;
@@ -111,16 +107,6 @@ body::-webkit-scrollbar-thumb {
 .about__subtitle:hover {
   color: #F4D04E;
   transition: all ease-in-out 0.3s;
-}
-
-.hero__name {
-  text-decoration: none;
-  border-bottom: 4px solid rgba(0, 0, 0 ,0);
-  transition: ease-in-out border-bottom 400ms;
-}
-
-.hero__name:hover {
-  border-bottom: 4px solid var(--clr-light);
 }
 
 .hero__title:hover,
