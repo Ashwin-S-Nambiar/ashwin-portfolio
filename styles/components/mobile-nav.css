@@ -47,6 +47,10 @@
   color: var(--clr-slate600);
 }
 
+.mobile-nav__sun:hover {
+  color: var(--clr-rose);
+}
+
 .mobile-nav__btn {
   font-size: var(--size-sm);
 }

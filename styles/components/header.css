@@ -60,6 +60,10 @@
     height: var(--size-base);
   }
 
+  .header__sun:hover {
+    color: var(--clr-rose);
+  }
+
   .header__resume {
     font-size: var(--size-xs);
   }
