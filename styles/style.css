@@ -45,6 +45,10 @@ html {
   --clr-slate800: #1e293b;
 }
 
+#theme-toggle {
+  user-select: none;
+}
+
 #theme-toggle svg:last-child{
   display: none;
 }
