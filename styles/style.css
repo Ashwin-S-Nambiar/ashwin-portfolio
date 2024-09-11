@@ -128,7 +128,8 @@ body::-webkit-scrollbar-thumb {
 .hero__title:hover,
 .hero__description strong:hover,
 .about__description strong:hover,
-.work__project-subtitle:hover {
+.work__project-subtitle:hover,
+.work__project-title:hover {
   color: #e11d48;
   transition: all ease-in-out 0.4s;
 }
