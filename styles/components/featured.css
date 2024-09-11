@@ -30,6 +30,11 @@
   margin: 1rem 0;
 }
 
+.featured__description > strong:hover {
+  color: #e11d48;
+  transition: all ease-in-out 0.4s;
+}
+
 .featured__info-container {
   display: flex;
   flex-wrap: wrap;
