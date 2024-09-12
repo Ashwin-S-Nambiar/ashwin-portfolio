@@ -46,6 +46,7 @@
 
   .header__link:hover {
     color: var(--clr-rose);
+    transition: all ease-in-out 0.4s;
   }
 
   .header__line {
@@ -62,6 +63,12 @@
 
   .header__sun:hover {
     color: var(--clr-rose);
+    transition: all ease-in-out 0.4s;
+  }
+
+  .header__sun:active {
+    transform: rotate(360deg);
+    transition: transform 0.5s;
   }
 
   .header__resume {

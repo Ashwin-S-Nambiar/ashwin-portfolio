@@ -10,6 +10,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  transition: background-color 0.75s;
 }
 
 .mobile-nav__menu {
@@ -33,6 +34,7 @@
 
 .mobile-nav__link:hover {
   color: var(--clr-rose);
+  transition: all ease-in-out 0.4s;
 }
 
 .mobile-nav__link-line {
@@ -49,6 +51,12 @@
 
 .mobile-nav__sun:hover {
   color: var(--clr-rose);
+  transition: all ease-in-out 0.4s;
+}
+
+.mobile-nav__sun:active {
+  transform: rotate(360deg);
+  transition: transform 0.5s;
 }
 
 .mobile-nav__btn {
