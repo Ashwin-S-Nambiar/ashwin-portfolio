@@ -75,6 +75,7 @@
 
 .work__project-btn {
   font-size: var(--size-sm);
+  width: 110px;
 }
 
 .work__project-subtitle {
