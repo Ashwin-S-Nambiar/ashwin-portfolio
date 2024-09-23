@@ -1,4 +1,4 @@
-# 💭 Ashwin's Portfolio
+# 💻 Ashwin's Portfolio
 
 Live: https://ashwin-portfolio-alpha.vercel.app/
 
