@@ -99,7 +99,7 @@ class CursorTrail {
       setTimeout(() => {
         trail.remove();
       }, 500);
-    }, 1000);
+    }, 750);
     
     this.timeouts.push(timeout);
     this.currentIndex = (this.currentIndex + 1) % this.currentImages.length;
@@ -115,7 +115,7 @@ class CursorTrail {
     const dy = e.clientY - this.lastY;
     const distance = Math.sqrt(dx * dx + dy * dy);
     
-    if (distance > this.moveThreshold && currentTime - this.lastMoveTime > 275) {
+    if (distance > this.moveThreshold && currentTime - this.lastMoveTime > 150) {
       this.createTrailElement(e.clientX, e.clientY);
       this.lastMoveTime = currentTime;
       this.lastX = e.clientX;
