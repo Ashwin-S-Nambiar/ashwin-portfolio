@@ -30,7 +30,8 @@ class CursorTrail {
     this.currentIndex = 0;
     this.isHovering = false;
     this.currentImages = [];
-    
+    this.maxTrailElements = 3;  // Set the maximum number of trail images here
+
     this.init();
   }
 
@@ -62,6 +63,12 @@ class CursorTrail {
   createTrailElement(x, y) {
     if (!this.isHovering || this.currentImages.length === 0) return;
     
+    // Remove oldest element if limit is exceeded
+    if (this.trailElements.length >= this.maxTrailElements) {
+      const oldestTrail = this.trailElements.shift();
+      oldestTrail.remove();
+    }
+
     const trail = document.createElement('div');
     trail.className = 'trail-image';
     
@@ -108,7 +115,7 @@ class CursorTrail {
     const dy = e.clientY - this.lastY;
     const distance = Math.sqrt(dx * dx + dy * dy);
     
-    if (distance > this.moveThreshold && currentTime - this.lastMoveTime > 100) {
+    if (distance > this.moveThreshold && currentTime - this.lastMoveTime > 350) {
       this.createTrailElement(e.clientX, e.clientY);
       this.lastMoveTime = currentTime;
       this.lastX = e.clientX;
