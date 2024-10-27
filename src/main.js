@@ -30,20 +30,18 @@ class CursorTrail {
     this.currentIndex = 0;
     this.isHovering = false;
     this.currentImages = [];
-    this.maxTrailElements = 4;  // Set the maximum number of trail images here
+    this.maxTrailElements = 4;
 
     this.init();
   }
 
   init() {
-    // Add mousemove listener to handle trail creation
+
     document.addEventListener('mousemove', this.handleMouseMove.bind(this));
     
-    // Add event listeners to all hover-trail elements
     const hoverElements = document.querySelectorAll('.hover-trail');
     hoverElements.forEach(element => {
-      // Get images from data attribute
-      // Expects data-images to be a comma-separated list of image paths
+
       const imagePathsStr = element.dataset.images;
       const imagePaths = imagePathsStr ? imagePathsStr.split(',').map(path => path.trim()) : [];
       
@@ -63,7 +61,6 @@ class CursorTrail {
   createTrailElement(x, y) {
     if (!this.isHovering || this.currentImages.length === 0) return;
     
-    // Remove oldest element if limit is exceeded
     if (this.trailElements.length >= this.maxTrailElements) {
       const oldestTrail = this.trailElements.shift();
       oldestTrail.remove();
