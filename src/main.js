@@ -112,7 +112,7 @@ class CursorTrail {
     const dy = e.clientY - this.lastY;
     const distance = Math.sqrt(dx * dx + dy * dy);
     
-    if (distance > this.moveThreshold && currentTime - this.lastMoveTime > 150) {
+    if (distance > this.moveThreshold && currentTime - this.lastMoveTime > 125) {
       this.createTrailElement(e.clientX, e.clientY);
       this.lastMoveTime = currentTime;
       this.lastX = e.clientX;
