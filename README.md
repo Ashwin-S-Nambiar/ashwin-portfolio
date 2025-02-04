@@ -9,12 +9,11 @@
 
 A modern portfolio website featuring dynamic image trail animations and responsive design
 
-[Live Demo](https://ashwin-portfolio-alpha.vercel.app/) • [Features](#-features) • [Tech Stack](#-tech%20stack) • [Screenshots](#-screenshots) • [Author](#-author)
+[Live Demo](https://ashwin-portfolio-alpha.vercel.app/) • [Features](#-features) • [Tech Stack](#️-tech-stack) • [Screenshots](#-screenshots) • [Author](#-author)
 
 </div>
 
 ## ✨ Features
-
 - **🖼️ Image Trail Animation** - Interactive hover effects in the projects section
 - **📱 Responsive Design** - Optimized for all screen sizes
 - **🚀 Fast Loading** - Built with Vite for optimal performance
@@ -22,7 +21,6 @@ A modern portfolio website featuring dynamic image trail animations and responsi
 - **⚡ Lazy Loading** - Improved performance with image lazy loading
 
 ## 🛠️ Tech Stack
-
 - **HTML5** - Structure and semantics
 - **CSS3** - Styling and animations
 - **JavaScript** - Interactivity and animations
@@ -57,7 +55,6 @@ A modern portfolio website featuring dynamic image trail animations and responsi
 - GitHub: [@Ashwin-S-Nambiar](https://github.com/Ashwin-S-Nambiar)
 
 ## 🙏 Acknowledgments
-
 - Special thanks to [Slaying The Dragon](https://www.youtube.com/@slayingthedragon) for the initial template
 - Additional CSS and JavaScript modifications by Ashwin S Nambiar
 
