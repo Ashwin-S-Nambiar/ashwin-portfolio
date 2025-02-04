@@ -1,36 +1,72 @@
-# 💻 Ashwin's Portfolio
+# Portfolio Website 💼
 
-> [!NOTE]
-> 
-> **Live: https://ashwin-portfolio-alpha.vercel.app/**
+<div align="center">
 
-***A portfolio website made by me using the Template created by **[Slaying The Dragon](https://www.youtube.com/@slayingthedragon)** in Youtube and various CSS, JavaScript edits made by myself. There are also some hover animations of image trail when mouse is hovering above the projects images in work section.***
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## ⚒️ Built with:
-- HTML 5
-- CSS 3
-- JavaScript
-- Vite
-- Lazy Loading
+A modern portfolio website featuring dynamic image trail animations and responsive design
 
-## 📷 Screenshots:
+[Live Demo](https://ashwin-portfolio-alpha.vercel.app/) • [Features](#-features) • [Tech Stack](#-tech-stack) • [Screenshots](#-screenshots) • [Author](#-author)
 
-<h2>Landing Page</h2>  
+</div>
 
-![ashwin-portfolio-alpha vercel app_1](https://github.com/user-attachments/assets/2a9faebc-62a5-4ddd-9cb3-cbf1820303b9)
+## ✨ Features
 
-<h2>About Section</h2>   
+- **🖼️ Image Trail Animation** - Interactive hover effects in the projects section
+- **📱 Responsive Design** - Optimized for all screen sizes
+- **🚀 Fast Loading** - Built with Vite for optimal performance
+- **🎨 Modern UI** - Clean and professional design aesthetics
+- **⚡ Lazy Loading** - Improved performance with image lazy loading
 
-![ashwin-portfolio-alpha vercel app_2](https://github.com/user-attachments/assets/d1ed60ff-8240-499e-9543-42d8accbf54a)
+## 🛠️ Tech Stack
 
-<h2>Featured Section</h2>   
+- **HTML5** - Structure and semantics
+- **CSS3** - Styling and animations
+- **JavaScript** - Interactivity and animations
+- **Vite** - Next generation frontend tooling
+- **Lazy Loading** - Performance optimization
 
-![ashwin-portfolio-alpha vercel app_3](https://github.com/user-attachments/assets/a6734321-0c83-4af8-a486-f8831d7c3d3c)
+## 📸 Screenshots
 
-<h2>Project Section</h2>  
+<div align="center">
 
-![ashwin-portfolio-alpha vercel app_4](https://github.com/user-attachments/assets/5ee93776-b377-4bc2-b6b6-d9c9fa48feb3)
+### Landing Page
+![Landing Page](https://github.com/user-attachments/assets/2a9faebc-62a5-4ddd-9cb3-cbf1820303b9)
 
-<h2>Contact Section</h2> 
+### About Section
+![About Section](https://github.com/user-attachments/assets/d1ed60ff-8240-499e-9543-42d8accbf54a)
 
-![ashwin-portfolio-alpha vercel app_5](https://github.com/user-attachments/assets/31c9feaf-4592-4410-9b5d-266e7f43d3b9)
+### Featured Section
+![Featured Section](https://github.com/user-attachments/assets/a6734321-0c83-4af8-a486-f8831d7c3d3c)
+
+### Project Section
+![Project Section](https://github.com/user-attachments/assets/5ee93776-b377-4bc2-b6b6-d9c9fa48feb3)
+
+### Contact Section
+![Contact Section](https://github.com/user-attachments/assets/31c9feaf-4592-4410-9b5d-266e7f43d3b9)
+
+</div>
+
+## 👤 Author
+
+### Ashwin S Nambiar
+- Portfolio: [ashwin-s-nambiar.is-a.dev](https://ashwin-s-nambiar.is-a.dev/)
+- GitHub: [@Ashwin-S-Nambiar](https://github.com/Ashwin-S-Nambiar)
+
+## 🙏 Acknowledgments
+
+- Special thanks to [Slaying The Dragon](https://www.youtube.com/@slayingthedragon) for the initial template
+- Additional CSS and JavaScript modifications by Ashwin S Nambiar
+
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashwin-portfolio-alpha.vercel.app/)
+
+Made with ❤️ by Ashwin S Nambiar
+
+</div>
