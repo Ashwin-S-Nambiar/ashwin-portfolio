@@ -9,7 +9,7 @@
 
 A modern portfolio website featuring dynamic image trail animations and responsive design
 
-[Live Demo](https://ashwin-portfolio-alpha.vercel.app/) • [Features](#-features) • [Tech Stack](#-tech-stack) • [Screenshots](#-screenshots) • [Author](#-author)
+[Live Demo](https://ashwin-portfolio-alpha.vercel.app/) • [Features](#-features) • [Tech Stack](#-tech%20stack) • [Screenshots](#-screenshots) • [Author](#-author)
 
 </div>
 
