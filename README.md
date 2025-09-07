@@ -51,7 +51,6 @@ A modern portfolio website featuring dynamic image trail animations and responsi
 ## 👤 Author
 
 ### Ashwin S Nambiar
-- Portfolio: [ashwin-s-nambiar.is-a.dev](https://ashwin-s-nambiar.is-a.dev/)
 - GitHub: [@Ashwin-S-Nambiar](https://github.com/Ashwin-S-Nambiar)
 
 ## 🙏 Acknowledgments
