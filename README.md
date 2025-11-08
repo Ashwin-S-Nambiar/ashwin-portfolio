@@ -1,4 +1,4 @@
-# Portfolio Website 💼
+# Portfolio
 
 <div align="center">
 
@@ -13,21 +13,21 @@ A modern portfolio website featuring dynamic image trail animations and responsi
 
 </div>
 
-## ✨ Features
-- **🖼️ Image Trail Animation** - Interactive hover effects in the projects section
-- **📱 Responsive Design** - Optimized for all screen sizes
-- **🚀 Fast Loading** - Built with Vite for optimal performance
-- **🎨 Modern UI** - Clean and professional design aesthetics
-- **⚡ Lazy Loading** - Improved performance with image lazy loading
+## Features
+- **Image Trail Animation** - Interactive hover effects in the projects section
+- **Responsive Design** - Optimized for all screen sizes
+- **Fast Loading** - Built with Vite for optimal performance
+- **Modern UI** - Clean and professional design aesthetics
+- **Lazy Loading** - Improved performance with image lazy loading
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **HTML5** - Structure and semantics
 - **CSS3** - Styling and animations
 - **JavaScript** - Interactivity and animations
 - **Vite** - Next generation frontend tooling
 - **Lazy Loading** - Performance optimization
 
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -48,12 +48,12 @@ A modern portfolio website featuring dynamic image trail animations and responsi
 
 </div>
 
-## 👤 Author
+## Author
 
 ### Ashwin S Nambiar
 - GitHub: [@Ashwin-S-Nambiar](https://github.com/Ashwin-S-Nambiar)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 - Special thanks to [Slaying The Dragon](https://www.youtube.com/@slayingthedragon) for the initial template
 - Additional CSS and JavaScript modifications by Ashwin S Nambiar
 
