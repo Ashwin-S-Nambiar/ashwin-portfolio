@@ -48,11 +48,6 @@ A modern portfolio website featuring dynamic image trail animations and responsi
 
 </div>
 
-## Author
-
-### Ashwin S Nambiar
-- GitHub: [@Ashwin-S-Nambiar](https://github.com/Ashwin-S-Nambiar)
-
 ## Acknowledgments
 - Special thanks to [Slaying The Dragon](https://www.youtube.com/@slayingthedragon) for the initial template
 - Additional CSS and JavaScript modifications by Ashwin S Nambiar
@@ -62,7 +57,5 @@ A modern portfolio website featuring dynamic image trail animations and responsi
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashwin-portfolio-alpha.vercel.app/)
-
-Made with ❤️ by Ashwin S Nambiar
 
 </div>
