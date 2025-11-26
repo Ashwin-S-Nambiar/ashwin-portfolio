@@ -50,7 +50,7 @@ A modern portfolio website featuring dynamic image trail animations and responsi
 
 ## Acknowledgments
 - Special thanks to [Slaying The Dragon](https://www.youtube.com/@slayingthedragon) for the initial template
-- Additional CSS and JavaScript modifications by Ashwin S Nambiar
+- Additional CSS and JavaScript modifications by Me
 
 ---
 
